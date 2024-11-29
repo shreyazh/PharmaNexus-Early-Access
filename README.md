@@ -18,4 +18,4 @@ You can find here the data and code used for developing and evaluating the predi
 - **[predictions.py](predictions.py)**: performs predictions on the already trained embedding models. 
 
 ### Environment
-The project was developed using Visual Studio Code 1.84 with Python 3.10.13
+The project was developed using Visual Studio Code 1.84 with Python 3.12
