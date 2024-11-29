@@ -1,5 +1,4 @@
 # REPURPOSING DRUG USING KNOWLEDGE GRAPHS
-
 #dependencies
 import streamlit as st
 import pandas as pd
@@ -108,5 +107,3 @@ if nav == 'About this App':
     st.write("Drug repurposing methods can identify already approved drugs to treat them efficiently, reducing development costs and time. At the same time, knowledge graph embedding techniques can encode biological information in a single structure that allows users to operate relationships, extract information, learn connections, and make predictions to discover potential new relationships between existing drugs and vector-borne diseases.")
     st.write("In this project, we compare seven knowledge graph embedding models (TransE, TransR, TransH, UM, DistMult, RESCAL, and ERMLP) applied to Drug Repurposing Knowledge Graph (DRKG), analyzing their predictive performance over seven different vector-borne diseases (dengue, chagas, malaria, yellow fever, leishmaniasis, filariasis, and schistosomiasis), measuring their embedding quality and external performance against a ground-truth.")
     st.write("This project is based on the paper [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8) as developed by [Shreyash Srivastva](https://www.linkedin.com/in/shreyashsrivastva/) and [Dr.Anshumaan Kumar](https://www.linkedin.com/in/anshumaan-kumar-7a4193281/) for BioHacks Hackathon 2024.")
-
-#-----------------------------------------
