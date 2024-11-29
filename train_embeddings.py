@@ -1,6 +1,4 @@
 # Start by training model on give dataset
-########################################################
-
 # Import dataset
 
 from pykeen.datasets import DRKG
@@ -10,7 +8,6 @@ dataset.summarize()
 
 
 # Train embedding model on dataset
-########################################################
 
 from pykeen.pipeline import pipeline
 
